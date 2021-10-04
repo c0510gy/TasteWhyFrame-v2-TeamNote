@@ -80,4 +80,3 @@
 21. Lis
 22. Knapsack
 23. Coin Change
-24. Knuth Opti
