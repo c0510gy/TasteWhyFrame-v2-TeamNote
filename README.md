@@ -33,6 +33,7 @@
 18. Tortoise and Hare algorithm (특수한 그래프에 대해서만 가능)
 19. Link/Cut tree (data structure) ✅
 20. Disjoint set (data structure) ✅
+21. 2D Segment tree ✅
 
 ## 3. 기하 알고리즘
 1. Monotone chain algorithm (Convex hull) ✅
