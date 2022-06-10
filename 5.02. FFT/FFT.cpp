@@ -43,6 +43,7 @@ void multiply(vector<int>& a, vector<int>& b, vector<int>& ret)
     vector<complex<double>> fa(a.begin(),a.end());
     vector<complex<double>> fb(b.begin(),b.end());
     while(n<max(fa.size(),fb.size())) n<<=1;
+    n <<= 1;
     fa.resize(n);
     fb.resize(n);
     fft(fa,false);
